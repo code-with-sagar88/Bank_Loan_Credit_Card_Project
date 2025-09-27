@@ -47,7 +47,7 @@ This repository contains SQL queries along with insights and visualizations.
 
 ### 1. Total Loan Applications  
 **Query:** Count total number of loans in the dataset.  
-![Loan Applications](Images/loan%20application.png)  
+![Loan Applications](Images/loan%20applications.png)  
 
 ---
 
