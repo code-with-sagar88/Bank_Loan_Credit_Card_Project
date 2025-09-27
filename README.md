@@ -155,7 +155,7 @@ This repository contains SQL queries along with insights and visualizations.
 
 ### 19. Customers with Highest Number of Transactions  
 **Query:** Top customers by transaction frequency.  
-![Top Customers](Images/Customers%20with%20highest%20number%20of%20transaction%20(all%20transactions).png)  
+![Top Customers](Images/Customers%20with%20highest%20number%20of%20transactions%20(all%20transactions).png)  
 
 ---
 
@@ -167,7 +167,7 @@ This repository contains SQL queries along with insights and visualizations.
 
 ### 21. Average Transaction Amount by Month           
 **Query:** Find monthly average transaction amount.  
-![Monthly Avg](Images/What%20is%20the%20average%20transaction%20amount%20for%20each%20month?.png)  
+![Monthly Avg](Images/What%20is%20the%20average%20transaction%20amount%20for%20each%20month.png)  
 
 ---
 
@@ -185,7 +185,7 @@ This repository contains SQL queries along with insights and visualizations.
 
 ### 24. Top 10 merchants with the highest total transaction amount?
 **Query:** Merchants generating maximum revenue.  
-![Top Merchants Value](Who%20are%20the%20top%2010%20merchants%20with%20the%20highest%20total%20transaction%20amount".png)  
+![Top Merchants Value](Images/Who%20are%20the%20top%2010%20merchants%20with%20the%20highest%20total%20transaction%20amount.png)
 
 ---
 
