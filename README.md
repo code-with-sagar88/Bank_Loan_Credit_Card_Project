@@ -139,7 +139,7 @@ This repository contains SQL queries along with insights and visualizations.
 
 ### 24. Top 10 merchants with the highest total transaction amount  
 **Query:** Merchants generating maximum revenue.  
-![Top Merchants Value](Images/Top%2010%20merchants%20with%20the%20highest%20total%20transaction%20amount.png)  
+![Top Merchants Value](Images/Top%2010%20merchants%20with%20the%20highest%20total%20transaction%20amounts.png)  
 
 ### 25. Top 5 Customers by Transaction Amount  
 **Query:** High-spending customers.  
