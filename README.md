@@ -113,7 +113,7 @@ This repository contains SQL queries along with insights and visualizations.
 
 ### 12. Top 5 High Income Approved Applicants  
 **Query:** Find top 5 highest income applicants with approved loans.  
-![Top Income Applicants](Images/bank%20loan%20and%20transaction.png)  
+![Top Income Applicants](Images/top%205%20applicants%20with%20the%20highest%20income%20whose%20loans%20were%20approved.png)  
 
 ---
 
