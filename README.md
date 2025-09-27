@@ -1,6 +1,6 @@
 # 🏦 Bank Analytics: Loan & Credit Card Transactions Insights  
 
-![Project Banner](images/bank%20loan%20and%20transaction.webp)
+![Project Banner](Images/bank%20loan%20and%20transaction.webp)
 
 ## 📌 Project Overview  
 This project leverages two financial datasets — **Loan Applications** and **Credit Card Transactions** — to derive meaningful insights for banks and financial institutions. Using **MySQL**, we analyze loan approvals, customer demographics, income trends, credit scores, and fraud detection in credit card transactions.  
