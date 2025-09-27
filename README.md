@@ -125,7 +125,7 @@ This repository contains SQL queries along with insights and visualizations.
 
 ### 14. Fraudulent vs Non-Fraudulent Transactions  
 **Query:** Fraud detection analysis.  
-![Fraud Analysis](Images/Fraudulent%20vs%20non-fraudulent%20transaction.png)  
+![Fraud Analysis](Images/Fraudulent%20vs%20non-fraudulent%20transactions.png)  
 
 ---
 
@@ -137,7 +137,7 @@ This repository contains SQL queries along with insights and visualizations.
 
 ### 16. Top 5 Merchants with Most Transactions  
 **Query:** Find merchants with the highest number of transactions.  
-![Top Merchants](Images/Top%205%merchants%20with%20most%20transactions%20(general).png)  
+![Top Merchants](Images/Top%205%20merchants%20with%20most%20transactions%20%28general%29.png) 
 
 ---
 
